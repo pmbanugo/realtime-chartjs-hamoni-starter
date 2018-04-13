@@ -10,7 +10,7 @@ let voteData = [
   { candidate: "Peter Mbanugo", vote: 0 },
   { candidate: "Angela Daniels", vote: 0 },
   { candidate: "Rose Philly", vote: 0 },
-  { candidate: "Donald Crump", vote: 0 }
+  { candidate: "James Crump", vote: 0 }
 ];
 
 let statePrimitive;
